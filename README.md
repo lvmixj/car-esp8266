@@ -78,8 +78,7 @@
 # 硬件部分
 
  
-
-![img](https://gitee.com/jeremyue/image-hosting-service/raw/master/wps532D.tmp.png) 
+![image](https://user-images.githubusercontent.com/57294382/159697406-ccd9132f-47ce-41ed-8396-8dc83c248e5c.png)
 
  
 
@@ -99,9 +98,9 @@
 
 7 根据电磁感应，8266没有通电的时候，手动旋转电机也可以给8266供电
 
-![img](https://gitee.com/jeremyue/image-hosting-service/raw/master/wps533E.tmp.png)![img](https://gitee.com/jeremyue/image-hosting-service/raw/master/wps533F.tmp.png) 
 
- 
+ ![image](https://user-images.githubusercontent.com/57294382/159697604-c288c86d-2e9f-4468-8a26-cdcf3790ba3e.png)
+
 
  
 
